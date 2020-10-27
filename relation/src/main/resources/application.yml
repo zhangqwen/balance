@@ -1,0 +1,11 @@
+server:
+  port: 8081
+
+spring:
+  datasource:
+    url: jdbc:mysql:///relation?characterEncoding=utf-8&serverTimezone=Asia/Shanghai
+    username: root
+    password: 5tgb^YHN
+
+mybatis:
+  type-aliases-package: cn.zhangqw7.projects.model
